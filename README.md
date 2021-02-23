@@ -53,5 +53,5 @@
  
 
 > Not: Bu youtube kanalları benim kişisel olarak listelediğim ve sadece karşıma çıkan bazı kaynaklardır.  
-> Tavsiye: Fatih Acet'in özenle seçtiği bir listeye rastladım. [Liste](https://github.com/fatihacet/turkcekaynaklar-com)
+> **Tavsiye: Fatih Acet'in [özenle seçtiği bir kaynak listesine](https://github.com/fatihacet/turkcekaynaklar-com) rastladım. Gayet güzel sınıflandırılmış.**
  
